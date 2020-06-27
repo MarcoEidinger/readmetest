@@ -1,14 +1,12 @@
 <p align="center">
   <img width=50% src="https://github.com/SAP/cloud-sdk-ios-fiori/blob/images/Resources/Images/Team.png" alt="Logo" />
+  </br>
+  <span>SwiftUI implementation of the SAP Fiori for iOS Design Language</span>
 </p>
 
 ***
 
 <div align="center">
-
-SwiftUI implementation of the SAP Fiori for iOS Design Language
-
-***
 
 [Installation](#download-and-installation)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Examples](#examples)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[API Documentation](https://sap.github.io/cloud-sdk-ios-fiori)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Changelog](https://github.com/SAP/cloud-sdk-ios-fiori/blob/master/CHANGELOG.md)
 
