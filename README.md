@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/SAP/cloud-sdk-ios-fiori/blob/images/Resources/Images/Team.png" alt="Logo" />
+  <img width=30% src="https://github.com/SAP/cloud-sdk-ios-fiori/blob/images/Resources/Images/Team.png" alt="Logo" />
 </h1>
 <h2 align="center">
   SwiftUI implementation of the SAP Fiori for iOS Design Language
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[FioriCharts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Fonts](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Font Patcher](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[VimDevIcons][vim-devicons]
+[Charts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Cards](#fiori-integration-cards)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Installation](#download-and-installation)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://sap.github.io/cloud-sdk-ios-fiori)
 
 
 [![Build and Test Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/CI/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22CI%22)
