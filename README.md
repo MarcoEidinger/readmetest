@@ -1,6 +1,8 @@
-<h1 align="center">
+<p align="center">
   <img width=50% src="https://github.com/SAP/cloud-sdk-ios-fiori/blob/images/Resources/Images/Team.png" alt="Logo" />
-</h1>
+</p>
+
+***
 
 <div align="center">
 
@@ -14,6 +16,8 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 </div>
+
+***
 
 <img align="right" src="https://user-images.githubusercontent.com/4176826/85931303-3ac81980-b878-11ea-8e7f-9b10ed380f2d.gif" alt="alt text" width="300" height="500">
 
