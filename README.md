@@ -27,6 +27,10 @@ This project is the SwiftUI implementation of the SAP Fiori for iOS Design Langu
 
 > This project is in development, and should not yet be used productively.
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/4176826/85931303-3ac81980-b878-11ea-8e7f-9b10ed380f2d.gif" alt="alt text" width="300" height="500" align="center">
+</p>
+
 This project currently contains two modules: `FioriCharts` and `FioriIntegrationCards`
 
 ## FioriCharts
@@ -127,13 +131,11 @@ See **Limitations**.
 
 ## Examples
 
-<img src="https://user-images.githubusercontent.com/4176826/85931303-3ac81980-b878-11ea-8e7f-9b10ed380f2d.gif" alt="alt text" width="300" height="500">
-
-The Swift package contains applications to explore and test the functonality. To work with test apps, you must generate the xcodeproj file for the packages.  
+Functionality can be further explored with test apps which are already part of this package. To work with test apps, you must generate the xcodeproj file for the package.  
 
 From the root of the repo:  `swift package generate-xcodeproj`.  
 
-Then use `/Apps/Apps.xcworkspace`.
+Then use `/Apps/Apps.xcworkspace` and run one of the available.
 
 ## License
 
