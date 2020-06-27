@@ -1,16 +1,21 @@
 <h1 align="center">
-  <img src="images/nerd-fonts-logo.svg" alt="Nerd Fonts Logo" />
+  <img src="https://github.com/SAP/cloud-sdk-ios-fiori/blob/images/Resources/Images/Team.png?raw=true" alt="Logo" />
 </h1>
 <h2 align="center">
-  <img alt="Iconic font aggregator, collection, and patcher" src="images/project-subtitle-phrase.svg">
+  SwiftUI implementation of the SAP Fiori for iOS Design Language
 </h2>
 
 <div align="center">
 
-[FioriCharts][#fioricharts]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Fonts](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Font Patcher](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[VimDevIcons][vim-devicons]
+[FioriCharts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Fonts](#patched-fonts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Font Patcher](#font-patcher)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Wiki Documentation][wiki]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Stickers][stickers]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[VimDevIcons][vim-devicons]
 
 
-[![GitHub release][img-version-badge]][repo] [![Gitter][img-gitter-badge]][gitter] [![Build Status][img-travis-ci]][travis-ci] [![Code of Conduct][coc-badge]][coc] [![PRs Welcome][prs-badge]][prs]  <a href="#patched-fonts" title=""><img src="https://raw.githubusercontent.com/wiki/ryanoasis/nerd-fonts/images/faux-shield-badge-os-logos.svg?sanitize=true" alt="Nerd Fonts - OS Support"></a> [![Twitter][twitter-badge]][twitter-intent]
+[![Build and Test Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/CI/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22CI%22)
+[![Swift Lint Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/SwiftLint/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22SwiftLint%22)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=cloud-sdk-ios-fiori&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=cloud-sdk-ios-fiori)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3962/badge?latest)](https://bestpractices.coreinfrastructure.org/projects/3962)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 
 </div>
