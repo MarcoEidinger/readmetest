@@ -8,6 +8,8 @@
 
 [Charts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Integration Cards](#fiori-integration-cards)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Installation](#download-and-installation)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://sap.github.io/cloud-sdk-ios-fiori)
 
+***
+
 [![Build and Test Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/CI/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22CI%22)
 [![Swift Lint Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/SwiftLint/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22SwiftLint%22)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=cloud-sdk-ios-fiori&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=cloud-sdk-ios-fiori)
