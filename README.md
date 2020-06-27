@@ -15,13 +15,21 @@
 
 </div>
 
+<div>
+  
+***
+
 This project is the **SwiftUI implementation of the SAP Fiori for iOS Design Language**, and is meant to augment and in some cases replace the UIKit-based implementation contained in the SAPFiori framework of the [SAP Cloud Platform SDK for iOS](https://developers.sap.com/topics/cloud-platform-sdk-for-ios.html).  
 
+<div align="rigth">
 <img src="https://user-images.githubusercontent.com/4176826/85931303-3ac81980-b878-11ea-8e7f-9b10ed380f2d.gif" alt="alt text" width="300" height="500">
+</div>
 
 > This project is in development, and should not yet be used productively.
 
 This project currently contains two modules: `FioriCharts` and `FioriIntegrationCards`.
+
+</div>
 
 ## FioriCharts
 The FioriCharts module is planned to replace the *RoambiChartKit* charting library which was already embedded in SAPFiori.  Migrating to SwiftUI gives the ability to easily add new chart components (donut, bullet, stocks, etc.) while modernizing the existing supported charts with pinch-to-zoom, pan, and new design features.
