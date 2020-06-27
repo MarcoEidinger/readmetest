@@ -126,6 +126,8 @@ From the root of the repo:  `swift package generate-xcodeproj`.
 
 Then use `/Apps/Apps.xcworkspace`.
 
+![](https://github.com/SAP/cloud-sdk-ios-fiori/blob/assets/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(9.7-inch)%20-%20TimelineCard.png)
+
 ## License
 
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved.
