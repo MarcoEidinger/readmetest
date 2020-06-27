@@ -6,7 +6,6 @@
 
 [Charts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Integration Cards](#fiori-integration-cards)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Installation](#download-and-installation)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://sap.github.io/cloud-sdk-ios-fiori)
 
-
 [![Build and Test Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/CI/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22CI%22)
 [![Swift Lint Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/SwiftLint/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22SwiftLint%22)
 [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=cloud-sdk-ios-fiori&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=cloud-sdk-ios-fiori)
@@ -14,8 +13,14 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
-
 </div>
+
+[![Build and Test Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/CI/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22CI%22)
+[![Swift Lint Status Check](https://github.com/SAP/cloud-sdk-ios-fiori/workflows/SwiftLint/badge.svg)](https://github.com/SAP/cloud-sdk-ios-fiori/actions?query=workflow%3A%22SwiftLint%22)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=cloud-sdk-ios-fiori&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=cloud-sdk-ios-fiori)
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3962/badge?latest)](https://bestpractices.coreinfrastructure.org/projects/3962)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 This project is the **SwiftUI implementation of the SAP Fiori for iOS Design Language**, and is meant to augment and in some cases replace the UIKit-based implementation contained in the SAPFiori framework of the [SAP Cloud Platform SDK for iOS](https://developers.sap.com/topics/cloud-platform-sdk-for-ios.html).  
 
