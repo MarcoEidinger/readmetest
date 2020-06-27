@@ -6,7 +6,11 @@
 
 <div align="center">
 
-[Charts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Integration Cards](#fiori-integration-cards)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Installation](#download-and-installation)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://sap.github.io/cloud-sdk-ios-fiori)
+SwiftUI implementation of the SAP Fiori for iOS Design Language
+
+***
+
+[Charts](#fioricharts)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Integration Cards](#fiori-integration-cards)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Installation](#download-and-installation)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Documentation](https://sap.github.io/cloud-sdk-ios-fiori)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;[Examples](#examples)
 
 ***
 
