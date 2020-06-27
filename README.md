@@ -1,9 +1,6 @@
 <h1 align="center">
   <img width=50% src="https://github.com/SAP/cloud-sdk-ios-fiori/blob/images/Resources/Images/Team.png" alt="Logo" />
 </h1>
-<h2 align="center">
-  SwiftUI implementation of the SAP Fiori for iOS Design Language
-</h2>
 
 <div align="center">
 
