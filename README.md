@@ -21,8 +21,6 @@
 
 ***
 
-<img align="right" src="https://user-images.githubusercontent.com/4176826/85931303-3ac81980-b878-11ea-8e7f-9b10ed380f2d.gif" alt="alt text" width="300" height="500">
-
 This project is the **SwiftUI implementation of the SAP Fiori for iOS Design Language**, and is meant to augment and in some cases replace the UIKit-based implementation contained in the SAPFiori framework of the [SAP Cloud Platform SDK for iOS](https://developers.sap.com/topics/cloud-platform-sdk-for-ios.html).  
 
 > This project is in development, and should not yet be used productively.
@@ -128,13 +126,14 @@ If you want to contribute, please check the [Contribution Guidelines](./CONTRIBU
 See **Limitations**.
 
 ## Examples
-To work with test apps, you must generate the xcodeproj file for the packages.  
+
+<img src="https://user-images.githubusercontent.com/4176826/85931303-3ac81980-b878-11ea-8e7f-9b10ed380f2d.gif" alt="alt text" width="300" height="500">
+
+The Swift package contains applications to explore and test the functonality. To work with test apps, you must generate the xcodeproj file for the packages.  
 
 From the root of the repo:  `swift package generate-xcodeproj`.  
 
 Then use `/Apps/Apps.xcworkspace`.
-
-![](https://github.com/SAP/cloud-sdk-ios-fiori/blob/assets/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20(9.7-inch)%20-%20TimelineCard.png)
 
 ## License
 
